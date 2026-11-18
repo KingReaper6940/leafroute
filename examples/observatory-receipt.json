@@ -1,0 +1,268 @@
+{
+  "schema": "leafroute-receipt-v1",
+  "checked": true,
+  "project": {
+    "schema": "leafroute-project-v1",
+    "id": "80000000-0000-4000-8000-000000000001",
+    "title": "The glass observatory",
+    "totalPages": 310,
+    "currentPage": 40,
+    "startDate": "2030-03-01",
+    "finishDate": "2030-03-14",
+    "weekdays": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "blackoutText": "2030-03-05",
+    "secondsPerPage": 90,
+    "notes": "Fictional book and future example dates. Enter your own pages, dates and measured pace."
+  },
+  "days": [
+    {
+      "date": "2030-03-01",
+      "weekday": 5,
+      "type": "reading",
+      "from": 41,
+      "to": 70,
+      "pages": 30,
+      "seconds": 2700,
+      "target": 70
+    },
+    {
+      "date": "2030-03-02",
+      "weekday": 6,
+      "type": "not-selected",
+      "from": null,
+      "to": null,
+      "pages": 0,
+      "seconds": 0,
+      "target": 70
+    },
+    {
+      "date": "2030-03-03",
+      "weekday": 0,
+      "type": "not-selected",
+      "from": null,
+      "to": null,
+      "pages": 0,
+      "seconds": 0,
+      "target": 70
+    },
+    {
+      "date": "2030-03-04",
+      "weekday": 1,
+      "type": "reading",
+      "from": 71,
+      "to": 100,
+      "pages": 30,
+      "seconds": 2700,
+      "target": 100
+    },
+    {
+      "date": "2030-03-05",
+      "weekday": 2,
+      "type": "blackout",
+      "from": null,
+      "to": null,
+      "pages": 0,
+      "seconds": 0,
+      "target": 100
+    },
+    {
+      "date": "2030-03-06",
+      "weekday": 3,
+      "type": "reading",
+      "from": 101,
+      "to": 130,
+      "pages": 30,
+      "seconds": 2700,
+      "target": 130
+    },
+    {
+      "date": "2030-03-07",
+      "weekday": 4,
+      "type": "reading",
+      "from": 131,
+      "to": 160,
+      "pages": 30,
+      "seconds": 2700,
+      "target": 160
+    },
+    {
+      "date": "2030-03-08",
+      "weekday": 5,
+      "type": "reading",
+      "from": 161,
+      "to": 190,
+      "pages": 30,
+      "seconds": 2700,
+      "target": 190
+    },
+    {
+      "date": "2030-03-09",
+      "weekday": 6,
+      "type": "not-selected",
+      "from": null,
+      "to": null,
+      "pages": 0,
+      "seconds": 0,
+      "target": 190
+    },
+    {
+      "date": "2030-03-10",
+      "weekday": 0,
+      "type": "not-selected",
+      "from": null,
+      "to": null,
+      "pages": 0,
+      "seconds": 0,
+      "target": 190
+    },
+    {
+      "date": "2030-03-11",
+      "weekday": 1,
+      "type": "reading",
+      "from": 191,
+      "to": 220,
+      "pages": 30,
+      "seconds": 2700,
+      "target": 220
+    },
+    {
+      "date": "2030-03-12",
+      "weekday": 2,
+      "type": "reading",
+      "from": 221,
+      "to": 250,
+      "pages": 30,
+      "seconds": 2700,
+      "target": 250
+    },
+    {
+      "date": "2030-03-13",
+      "weekday": 3,
+      "type": "reading",
+      "from": 251,
+      "to": 280,
+      "pages": 30,
+      "seconds": 2700,
+      "target": 280
+    },
+    {
+      "date": "2030-03-14",
+      "weekday": 4,
+      "type": "reading",
+      "from": 281,
+      "to": 310,
+      "pages": 30,
+      "seconds": 2700,
+      "target": 310
+    }
+  ],
+  "sessions": [
+    {
+      "date": "2030-03-01",
+      "weekday": 5,
+      "type": "reading",
+      "from": 41,
+      "to": 70,
+      "pages": 30,
+      "seconds": 2700,
+      "target": 70
+    },
+    {
+      "date": "2030-03-04",
+      "weekday": 1,
+      "type": "reading",
+      "from": 71,
+      "to": 100,
+      "pages": 30,
+      "seconds": 2700,
+      "target": 100
+    },
+    {
+      "date": "2030-03-06",
+      "weekday": 3,
+      "type": "reading",
+      "from": 101,
+      "to": 130,
+      "pages": 30,
+      "seconds": 2700,
+      "target": 130
+    },
+    {
+      "date": "2030-03-07",
+      "weekday": 4,
+      "type": "reading",
+      "from": 131,
+      "to": 160,
+      "pages": 30,
+      "seconds": 2700,
+      "target": 160
+    },
+    {
+      "date": "2030-03-08",
+      "weekday": 5,
+      "type": "reading",
+      "from": 161,
+      "to": 190,
+      "pages": 30,
+      "seconds": 2700,
+      "target": 190
+    },
+    {
+      "date": "2030-03-11",
+      "weekday": 1,
+      "type": "reading",
+      "from": 191,
+      "to": 220,
+      "pages": 30,
+      "seconds": 2700,
+      "target": 220
+    },
+    {
+      "date": "2030-03-12",
+      "weekday": 2,
+      "type": "reading",
+      "from": 221,
+      "to": 250,
+      "pages": 30,
+      "seconds": 2700,
+      "target": 250
+    },
+    {
+      "date": "2030-03-13",
+      "weekday": 3,
+      "type": "reading",
+      "from": 251,
+      "to": 280,
+      "pages": 30,
+      "seconds": 2700,
+      "target": 280
+    },
+    {
+      "date": "2030-03-14",
+      "weekday": 4,
+      "type": "reading",
+      "from": 281,
+      "to": 310,
+      "pages": 30,
+      "seconds": 2700,
+      "target": 310
+    }
+  ],
+  "stats": {
+    "remaining": 270,
+    "availableDates": 9,
+    "sessions": 9,
+    "calendarDates": 14,
+    "minPages": 30,
+    "maxPages": 30,
+    "estimatedSeconds": 24300,
+    "finishDate": "2030-03-14",
+    "completed": false
+  }
+}

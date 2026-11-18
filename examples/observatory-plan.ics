@@ -1,0 +1,122 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Leafroute//Reading Plan//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:80000000-0000-4000-8000-000000000001-2030-03-01@leafroute.local
+DTSTAMP:20300101T000000Z
+DTSTART;VALUE=DATE:20300301
+DTEND;VALUE=DATE:20300302
+SUMMARY:The glass observatory — pages 41–70
+DESCRIPTION:Planned pages 41–70 (30 pages). Estimated 45 minutes from you
+ r entered pace. Planning only\, not logged progress.\nFictional book and f
+ uture example dates. Enter your own pages\, dates and measured pace.
+TRANSP:TRANSPARENT
+CLASS:PRIVATE
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:80000000-0000-4000-8000-000000000001-2030-03-04@leafroute.local
+DTSTAMP:20300101T000000Z
+DTSTART;VALUE=DATE:20300304
+DTEND;VALUE=DATE:20300305
+SUMMARY:The glass observatory — pages 71–100
+DESCRIPTION:Planned pages 71–100 (30 pages). Estimated 45 minutes from yo
+ ur entered pace. Planning only\, not logged progress.\nFictional book and 
+ future example dates. Enter your own pages\, dates and measured pace.
+TRANSP:TRANSPARENT
+CLASS:PRIVATE
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:80000000-0000-4000-8000-000000000001-2030-03-06@leafroute.local
+DTSTAMP:20300101T000000Z
+DTSTART;VALUE=DATE:20300306
+DTEND;VALUE=DATE:20300307
+SUMMARY:The glass observatory — pages 101–130
+DESCRIPTION:Planned pages 101–130 (30 pages). Estimated 45 minutes from y
+ our entered pace. Planning only\, not logged progress.\nFictional book and
+  future example dates. Enter your own pages\, dates and measured pace.
+TRANSP:TRANSPARENT
+CLASS:PRIVATE
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:80000000-0000-4000-8000-000000000001-2030-03-07@leafroute.local
+DTSTAMP:20300101T000000Z
+DTSTART;VALUE=DATE:20300307
+DTEND;VALUE=DATE:20300308
+SUMMARY:The glass observatory — pages 131–160
+DESCRIPTION:Planned pages 131–160 (30 pages). Estimated 45 minutes from y
+ our entered pace. Planning only\, not logged progress.\nFictional book and
+  future example dates. Enter your own pages\, dates and measured pace.
+TRANSP:TRANSPARENT
+CLASS:PRIVATE
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:80000000-0000-4000-8000-000000000001-2030-03-08@leafroute.local
+DTSTAMP:20300101T000000Z
+DTSTART;VALUE=DATE:20300308
+DTEND;VALUE=DATE:20300309
+SUMMARY:The glass observatory — pages 161–190
+DESCRIPTION:Planned pages 161–190 (30 pages). Estimated 45 minutes from y
+ our entered pace. Planning only\, not logged progress.\nFictional book and
+  future example dates. Enter your own pages\, dates and measured pace.
+TRANSP:TRANSPARENT
+CLASS:PRIVATE
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:80000000-0000-4000-8000-000000000001-2030-03-11@leafroute.local
+DTSTAMP:20300101T000000Z
+DTSTART;VALUE=DATE:20300311
+DTEND;VALUE=DATE:20300312
+SUMMARY:The glass observatory — pages 191–220
+DESCRIPTION:Planned pages 191–220 (30 pages). Estimated 45 minutes from y
+ our entered pace. Planning only\, not logged progress.\nFictional book and
+  future example dates. Enter your own pages\, dates and measured pace.
+TRANSP:TRANSPARENT
+CLASS:PRIVATE
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:80000000-0000-4000-8000-000000000001-2030-03-12@leafroute.local
+DTSTAMP:20300101T000000Z
+DTSTART;VALUE=DATE:20300312
+DTEND;VALUE=DATE:20300313
+SUMMARY:The glass observatory — pages 221–250
+DESCRIPTION:Planned pages 221–250 (30 pages). Estimated 45 minutes from y
+ our entered pace. Planning only\, not logged progress.\nFictional book and
+  future example dates. Enter your own pages\, dates and measured pace.
+TRANSP:TRANSPARENT
+CLASS:PRIVATE
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:80000000-0000-4000-8000-000000000001-2030-03-13@leafroute.local
+DTSTAMP:20300101T000000Z
+DTSTART;VALUE=DATE:20300313
+DTEND;VALUE=DATE:20300314
+SUMMARY:The glass observatory — pages 251–280
+DESCRIPTION:Planned pages 251–280 (30 pages). Estimated 45 minutes from y
+ our entered pace. Planning only\, not logged progress.\nFictional book and
+  future example dates. Enter your own pages\, dates and measured pace.
+TRANSP:TRANSPARENT
+CLASS:PRIVATE
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:80000000-0000-4000-8000-000000000001-2030-03-14@leafroute.local
+DTSTAMP:20300101T000000Z
+DTSTART;VALUE=DATE:20300314
+DTEND;VALUE=DATE:20300315
+SUMMARY:The glass observatory — pages 281–310
+DESCRIPTION:Planned pages 281–310 (30 pages). Estimated 45 minutes from y
+ our entered pace. Planning only\, not logged progress.\nFictional book and
+  future example dates. Enter your own pages\, dates and measured pace.
+TRANSP:TRANSPARENT
+CLASS:PRIVATE
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR
