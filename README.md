@@ -2,6 +2,8 @@
 
 Make room for the next page.
 
+**[Open Leafroute](https://leafroute.vercel.app)**
+
 Leafroute turns a book deadline into exact, inclusive page ranges on the dates you can read. Choose weekdays, remove blackout dates, add an optional pace estimate, and take the complete plan with you.
 
 ![Actual generated reading-plan summary, not an application screenshot](examples/observatory-summary.svg)
